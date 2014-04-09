@@ -2,7 +2,7 @@
 <extension
 	type="module"
 	version="2.5"
-	client="site"
+	client="site">
 	<name>mod_empty_mod</name>
 	<author>Daniel H Pavey</author>
 	<creationDate>November 2011</creationDate>
